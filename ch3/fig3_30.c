@@ -1,5 +1,6 @@
 /*
  * Figure 3.30
+  PARENT: value = 5
  */
 
 #include <stdio.h>

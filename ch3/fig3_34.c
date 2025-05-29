@@ -1,5 +1,8 @@
 /**
  * Figure 3.34
+ * Using the program in Figure 3.34, identify the values of pid at lines A, B,
+ * C and D. (Assume that the actual pids of the parent and child are 2600
+ * and 2603, respectively.)
  */
 
   #include <stdio.h>

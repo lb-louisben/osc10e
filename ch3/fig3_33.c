@@ -1,5 +1,6 @@
 /**
  * Figure 3.33
+ * LINE J will be printed when execlp failed.
  */
 
 #include <stdio.h>

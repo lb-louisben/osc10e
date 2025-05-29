@@ -1,5 +1,6 @@
 /**
  * Figure 3.31
+ total 8 process
  */
 
 #include <stdio.h>
